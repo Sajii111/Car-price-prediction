@@ -377,7 +377,7 @@ if not st.session_state.show_tool:
 
     st.markdown("""
         <div class="stats-row">
-            <div class="stat-plate"><div class="stat-num">22</div><div class="stat-label">Features Modeled</div></div>
+            <div class="stat-plate"><div class="stat-num">12</div><div class="stat-label">Features Modeled</div></div>
             <div class="stat-plate"><div class="stat-num">&lt;1s</div><div class="stat-label">Inference Time</div></div>
             <div class="stat-plate"><div class="stat-num">RF</div><div class="stat-label">Ensemble Model</div></div>
         </div>
