@@ -460,7 +460,7 @@ if predict_clicked:
                     <span>${gauge_max:,}</span>
                 </div>
             </div>
-            <div class="readout-foot">RANDOM FOREST · {len(model_columns)} FEATURES · LIVE INFERENCE</div>
+            <div class="readout-foot">RANDOM FOREST · 12 FEATURES · LIVE INFERENCE</div>
         </div>
     """, unsafe_allow_html=True)
 
