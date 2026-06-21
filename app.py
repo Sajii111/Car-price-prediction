@@ -564,7 +564,7 @@ else:
                     <div class="gauge-track"><div class="gauge-fill" style="width:{pct:.1f}%;"></div></div>
                     <div class="gauge-scale"><span>${gauge_min:,}</span><span>${gauge_max:,}</span></div>
                 </div>
-                <div class="readout-foot">RANDOM FOREST · {len(model_columns)} FEATURES · LIVE INFERENCE</div>
+                <div class="readout-foot">RANDOM FOREST · 12 FEATURES · LIVE INFERENCE</div>
             </div>
         """, unsafe_allow_html=True)
 
